@@ -24,7 +24,7 @@ Instalação
 
 Termux:
 
-- pkg install python ffmpeg
+* `pkg install python ffmpeg`
 
 Linux/macOS/Windows: Baixe o Python aqui e instale o FFmpeg a partir do repositório oficial.
 
@@ -34,22 +34,22 @@ Linux/macOS/Windows: Baixe o Python aqui e instale o FFmpeg a partir do reposit�
 
 Com o Python e FFmpeg configurados, instale o SpotDL usando pip:
 
-- pip install spotdl
+* `pip install spotdl`
 
 Observação: Se você encontrar problemas relacionados ao Rust, como mostrado na instalação do SpotDL, instale o compilador Rust executando:
 
-- pkg install rust
+* `pkg install rust`
 
 
 3. Baixe este repositório:
 
 Clone o repositório para sua máquina:
 
-- git clone https://github.com/EfyOliveira/lf13_music_down.git
+* `git clone https://github.com/EfyOliveira/lf13_music_down.git`
 
-- cd lf13_music_down
+* `cd lf13_music_down`
 
-- bash install.sh
+* `bash install.sh`
 
 
 
@@ -61,7 +61,7 @@ Uso
 
 No diretório onde o script foi baixado, execute:
 
-- python main.py
+* `python main.py`
 
 
 2. Escolha uma opção:
